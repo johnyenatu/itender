@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "256071167883",
+    "firebase_url": "https://iteners.firebaseio.com",
+    "project_id": "iteners",
+    "storage_bucket": "iteners.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256071167883:android:fcb035457f71c262b1498e",
+        "android_client_info": {
+          "package_name": "com.instantsystems.itenders"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256071167883-i16m8qo9g49jd6tg47eup5ks6qekmhdp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPHj2GYS-q3Moz_Mazq3_Cl_OclT98ghg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256071167883-i16m8qo9g49jd6tg47eup5ks6qekmhdp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
